@@ -1,5 +1,5 @@
 # Predict_Emerging_Technology_ML_Project
----
+
 ## 졸업연구
 1. Data source: Crawled patents about healthcare from PatentsView by api
 2. Data preprocessing: Using patent information, made it to my own variables
